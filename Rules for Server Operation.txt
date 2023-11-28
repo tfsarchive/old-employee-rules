@@ -1,0 +1,31 @@
+Feb 2022
+TheFlightSimulations Team
+Freedom - Respect
+               =========================================================
+                 Server operation for all staff of TheFlightSimulations         
+               =========================================================
+
+I. Introduction
+This document will guide Administrators (i) and creators, developers, and sales (ii) to
+operate TheFlightSimulations server properly. 
+You SHOULD follow these instructions to protect your works and safety; other works
+and safety. 
+If you broke the rule, you get a warning, or your account this server will be blocked
+by the Administrator; depends on how dangerous that you make, how it affects others.
+.
+II. Rules for Creators, Developers, and Sales
+You should follow the following rules to use this server: 
+1. DO NOT access, download, or edit file/website that contains un-trusted software.
+2. Any auditing MUST require permission from Administrators.
+3. DO NOT upload or download any file from the server or the Internet without permission
+from the Administrator.
+4. You MUST learn a course about Auditing, Privacy, and Security. 
+.
+II. Rules for Administrators and Managers
+1. You SHOULD know how to operate the server. In that case, go to Microsoft and search 
+for a course about operating Windows Server 2012 R2 and later.
+2. You must know what you're doing.
+3. About the security: 
++ Always remains the Windows Admin Center or Server Manager running.
++ Any auditing, modifications, and accessibility to the server must be allowed by all
+Administrators.
