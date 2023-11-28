@@ -1,0 +1,67 @@
+14 Feb 2022
+TheFlightSimulations Team
+Freedom - Respect
+               =========================================================
+                      Rules for TheFlightSimulations's Employees         
+               =========================================================
+
+Table of content:
+I.    Introduction
+II.   Global rules (apply to all employees)
+III.  Rules for Creators and Developers
+IV.   Rules for Sales
+
+I) Introduction
+ 1. This document may vary at any time. If there is any update, you may 
+    get the notification. 
+ 2. These rules are incomplete. It needs to be more usable.
+ 3. You MUST follow these rules. These will protect you while being a 
+    part of us.
+ 4. The following rules can only be applied after 3 days of publishing.
+
+II) Global rules
+ 1. No bullying or harassing another employee in any way, shape, or form. 
+ 2. DO NOT open and share any malware, including "crack" 
+    software. The exception can be applied to Developers and Creators 
+    but requires special privileges to prevent any unusual effects.
+ 3. Copyright and others' private space are your ethics. You must pay 
+    attention to any kind of thing that contains copyright and private 
+    space here.
+ 4. Debate equally. Any kind of personal attack disallows. You only 
+    can attack other ideas.
+ 5. Always welcome, and be respectful to others. 
+ 6. Any idea must notify to the Administrators. Administrators will 
+    check your idea if it contains any harmful effects. After your idea 
+    had been approved, Administrators will help you to debate with others.
+
+III) For Creators and Developers
+ 1. Software, Tools, and Libraries provided by TheFlightSimulations 
+    SHOULD NOT use for other purposes (such as for personal purposes). You 
+    only can use this software if you use them for creating and developing for 
+    TheFlightSimulations.
+ 2. Before creating and developing, make sure:
+    a. Your idea should be approved by Administrators. Administrators will 
+       check if your idea is suitable for working, or harm and other risks 
+       (such as boycott).
+    b. While developing, make sure that
+       + You SHOULD NOT use other libraries (except the built-in libraries), 
+         as well as pay respect to other creators. It will protect you 
+         and others from copyright issues.
+       + You DO know what you do, or the circumstances that may cause 
+         harmful effects for you and your partners.
+       + Stay safe and always keep your health in the best condition.
+    c. Before submitting your last product, make sure that you have checked 
+       if the product contains any error.
+ 3. Between developers and creators: always respect others.
+IV) For sales.
+ 1. Be careful with your language. If it contains anything
+    that not suitable to a specific community, you will pay up.
+ 2. In your final product, DO NOT include the following text, picture or that 
+    audio contains:
+    + Political, religious factors, moral and ethical values
+    + Information that leads to misunderstanding/misinformation
+    + Sensitive contents
+    + Spam or deceptive
+    + Hate speech and violent
+ 3. Special for VTuber: when you join the VTuber group, you basically cannot 
+    quit.
